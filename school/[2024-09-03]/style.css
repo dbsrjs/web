@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS(Cascading Style Sheet) */
+/* 선택자가 중요하다. */
+/* 선택지의 우선순위 : * ->  h -> . -> # */
+
+* {
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+}
